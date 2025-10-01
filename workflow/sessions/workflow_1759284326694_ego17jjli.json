@@ -1,0 +1,234 @@
+{
+  "id": "workflow_1759284326694_ego17jjli",
+  "startTime": 1759284326694,
+  "endTime": 1759284755213,
+  "events": [
+    {
+      "type": "session_started",
+      "timestamp": 1759284326694,
+      "data": {
+        "workspace": "/workspaces/https-www.facebook.com-asnanyhyfa"
+      }
+    },
+    {
+      "type": "terminal_opened",
+      "timestamp": 1759284408968,
+      "data": {
+        "name": ""
+      }
+    },
+    {
+      "type": "terminal_opened",
+      "timestamp": 1759284418430,
+      "data": {
+        "name": ""
+      }
+    },
+    {
+      "type": "editor_opened",
+      "timestamp": 1759284431950,
+      "data": {
+        "path": "Untitled-1",
+        "relativePath": "Untitled-1",
+        "language": "plaintext"
+      }
+    },
+    {
+      "type": "editor_opened",
+      "timestamp": 1759284690546,
+      "data": {
+        "path": "Untitled-1",
+        "relativePath": "Untitled-1",
+        "language": "plaintext"
+      }
+    },
+    {
+      "type": "editor_opened",
+      "timestamp": 1759284746590,
+      "data": {
+        "path": "Untitled-1",
+        "relativePath": "Untitled-1",
+        "language": "plaintext"
+      }
+    },
+    {
+      "type": "session_ended",
+      "timestamp": 1759284755213,
+      "data": {}
+    }
+  ],
+  "workspace": "/workspaces/https-www.facebook.com-asnanyhyfa",
+  "metadata": {
+    "vscodeVersion": "1.104.2",
+    "extensions": [
+      {
+        "id": "vscode.configuration-editing",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.css-language-features",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.debug-auto-launch",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.debug-server-ready",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.emmet",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.extension-editing",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.git",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.git-base",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.github",
+        "version": "0.0.1"
+      },
+      {
+        "id": "vscode.github-authentication",
+        "version": "0.0.2"
+      },
+      {
+        "id": "vscode.grunt",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.gulp",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.html-language-features",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.ipynb",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.jake",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.json-language-features",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.markdown-language-features",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.markdown-math",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.media-preview",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.merge-conflict",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.microsoft-authentication",
+        "version": "0.0.1"
+      },
+      {
+        "id": "ms-vscode.js-debug",
+        "version": "1.104.0"
+      },
+      {
+        "id": "ms-vscode.vscode-js-profile-table",
+        "version": "1.0.10"
+      },
+      {
+        "id": "vscode.npm",
+        "version": "1.0.1"
+      },
+      {
+        "id": "vscode.php-language-features",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.references-view",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.search-result",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.simple-browser",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.terminal-suggest",
+        "version": "1.0.1"
+      },
+      {
+        "id": "vscode.tunnel-forwarding",
+        "version": "1.0.0"
+      },
+      {
+        "id": "vscode.typescript-language-features",
+        "version": "1.0.0"
+      },
+      {
+        "id": "ArslantasM-tools.workflow-snapshot-replay",
+        "version": "0.1.0"
+      },
+      {
+        "id": "d-biehl.robotcode",
+        "version": "1.9.0"
+      },
+      {
+        "id": "d-biehl.robotcode-gherkin",
+        "version": "0.2.1"
+      },
+      {
+        "id": "GitHub.codespaces",
+        "version": "1.17.4"
+      },
+      {
+        "id": "GitHub.github-vscode-theme",
+        "version": "6.3.5"
+      },
+      {
+        "id": "GitHub.vscode-pull-request-github",
+        "version": "0.118.2"
+      },
+      {
+        "id": "ms-python.debugpy",
+        "version": "2025.10.0"
+      },
+      {
+        "id": "ms-python.python",
+        "version": "2025.14.0"
+      },
+      {
+        "id": "ms-python.vscode-pylance",
+        "version": "2025.8.3"
+      },
+      {
+        "id": "ms-python.vscode-python-envs",
+        "version": "1.8.0"
+      },
+      {
+        "id": "supercomplete.vscode-supercomplete",
+        "version": "0.0.16"
+      }
+    ]
+  }
+}
